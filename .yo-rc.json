@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.example.microservices"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "microa",
+    "packageName": "com.example.microservices",
+    "packageFolder": "com/example/microservices",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTZhZTE2NjUwYTZmNjkxNjVmOTlkODUwNzE1OGJhMWIwYmIzMjYzOTE0NTM1ODliZGYwMGQzYjE0MzQ0ZmU5ODgwN2VjMmIxNzIyZmViYWJiNzAzYmI5NzlkM2RlOWVhYWUzYWJhYjVhNTlkZWI1NGZiNGQyY2IwOTNmMzk4OTM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1630705332976,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
